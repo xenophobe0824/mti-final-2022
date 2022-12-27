@@ -25,9 +25,10 @@
    <appContext helpID="trouble_nr5_4cd_nvb" path="期末/期末/dita源码/incompleteimage.html"/>
    <appContext helpID="trouble_spp_xfd_nvb" path="期末/期末/dita源码/soundproblems.html"/>
    <appContext helpID="concept_gxg_gwc_zvb" path="期末/期末/dita源码/References.html"/>
-   <appContext helpID="" path="期末/期末/dita源码/Buttons_on_the_Projector.html"/>
+   <appContext helpID="reference_lqw_54d_zvb" path="期末/期末/dita源码/buttons.html"/>
    <appContext helpID="reference_ajg_dv1_nvb"
                path="期末/期末/dita源码/Inference_of_IndicatorLight.html"/>
    <appContext helpID="reference_l5b_3kw_nrb" path="期末/期末/dita源码/projector.html"/>
-   <appContext helpID="" path="期末/期末/dita源码/TechnicalHelp_Information.html"/>
+   <appContext helpID="topic_xvd_gbb_nvb"
+               path="期末/期末/dita源码/TechnicalHelp_Information.html"/>
 </map>
